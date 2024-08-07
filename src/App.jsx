@@ -1,10 +1,11 @@
 
 import "./App.css";
+import Form from "./components/form/Form";
 
 function App() {
   
 
-  return <p>asd</p>
+  return <Form/>
 }
 
 export default App;
